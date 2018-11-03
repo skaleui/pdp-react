@@ -1,0 +1,29 @@
+@import './common.scss';
+
+.container {
+
+	font-style: normal;
+}
+
+.product-title {
+	font-size: 18px;
+	margin-top: 10px;
+	color: red;
+	font-weight: 700;
+}
+
+.product-sub-title {
+	size: 35px;
+	font-weight: 400;
+	
+}
+
+.product-regular-price {
+	font-weight: 200;
+	color: black;
+}
+
+.product-sale-price {
+	font-weight: 300;
+	color: red;
+}

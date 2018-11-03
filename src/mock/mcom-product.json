@@ -1,0 +1,3235 @@
+{
+  "utagData": {
+    "is_responsive_pdp": "true",
+    "page_type": "product",
+    "t_category_id": [
+      "1"
+    ],
+    "t_category_name": [
+      "Men"
+    ],
+    "is_big_ticket": [
+      "false"
+    ],
+    "product_id": [
+      "2725209"
+    ],
+    "product_low_availability": [
+      "false"
+    ],
+    "product_availability_message": [
+      ""
+    ],
+    "product_name": [
+      "Men's 6\" Premium Waterproof Boot"
+    ],
+    "product_type": [
+      "single item"
+    ],
+    "product_original_price": [
+      "189.98"
+    ],
+    "product_price": [
+      "189.98"
+    ],
+    "product_pricing_state": [
+      "Everyday Value"
+    ],
+    "product_rating": [
+      "4.7025"
+    ],
+    "product_reviews": [
+      "363"
+    ],
+    "product_video": [
+      "true"
+    ],
+    "product_gwp_available": [],
+    "product_pwp_available": [],
+    "true_fit_size": [
+      "true"
+    ]
+  },
+  "product": {
+    "id": 2725209,
+    "identifier": {
+      "productUrl": "/shop/product/timberland-mens-6-premium-waterproof-boot?ID=2725209",
+      "productId": 2725209,
+      "topLevelCategoryID": "1",
+      "topLevelCategoryName": "Men"
+    },
+    "messages": {
+      "info": [
+        {}
+      ]
+    },
+    "detail": {
+      "name": "Men's 6\" Premium Waterproof Boot",
+      "description": "Timberland's signature outdoor boots get a fresh coat of paint with these brightly-colored, rugged lace-ups.",
+      "secondaryDescription": "",
+      "seoKeywords": "Timberland, Timberland Men's 6\" Premium Waterproof Boot",
+      "flags": {
+        "chanel": false,
+        "coach": false,
+        "hasWarranty": false,
+        "bigTicketItem": false,
+        "phoneOnly": false,
+        "registrable": false,
+        "masterProduct": false,
+        "memberProduct": false,
+        "gwpIndicator": true,
+        "truefitEligible": true,
+        "fitPredictorEligible": false,
+        "isStoreOnlyProductOnline": false,
+        "eligibleForPreOrder": false,
+        "countryEligible": true,
+        "hasColors": true,
+        "rebates": false,
+        "giftCard": false,
+        "suppressColorSwatches": false,
+        "hasColorSwatches": true,
+        "beauty": false,
+        "eligibleForShopRunner": false,
+        "hasAdditionalImages": true,
+        "bigTicketV2CItem": false,
+        "onlineExclusive": false,
+        "PDPColorized": true,
+        "isNew": false
+      },
+      "reviewStatistics": {
+        "aggregate": {
+          "rating": 4.7025,
+          "ratingPercentage": 94,
+          "count": 363
+        }
+      },
+      "orderedMasterGroupList": [],
+      "memberDisplayGroupsMap": {},
+      "bulletText": [
+        "Plain toe",
+        "Lace-up closure with metal eyelets",
+        "Leather lining for comfort and durability",
+        "Padded collar for comfort",
+        "Waterproof",
+        "Available in Wide Widths",
+        "Leather upper; rubber sole",
+        "Imported"
+      ],
+      "maxQuantity": 6,
+      "bottomOverlay": {
+        "text": "Extended Widths",
+        "classes": [
+          "bottomOverlayShoesExtendedwidths",
+          "flexibleIconLabel",
+          "flexIconPadding"
+        ]
+      },
+      "typeName": "SHOE",
+      "additionalImagesCount": 8,
+      "numberOfColors": 2,
+      "brand": {
+        "name": "Timberland",
+        "id": 1296,
+        "url": "/shop/featured/timberland",
+        "subBrand": "",
+        "brandBreakout": true
+      },
+      "bulletLinks": [],
+      "pdfEmailDescription": "Men's 6\" Premium Boots",
+      "memberProductCount": 0
+    },
+    "shipping": {
+      "notes": [
+        "Returns are accepted at any Macy's store within 180 days from purchase date. Last Act items must be returned within 30 days from purchase date."
+      ],
+      "freeShippingMessages": [
+        "This item qualifies for Free Shipping with minimum purchase!"
+      ]
+    },
+    "relationships": {
+      "taxonomy": {
+        "categories": [
+          {
+            "name": "Men",
+            "url": "/shop/mens-clothing?id=1&edge=hybrid",
+            "type": "rootcategory",
+            "id": 1
+          },
+          {
+            "name": "All Men's Shoes",
+            "url": "/shop/mens-clothing/mens-shoes?id=65&edge=hybrid",
+            "type": "homecategory",
+            "id": 65
+          }
+        ],
+        "defaultCategoryId": 65
+      },
+      "upcs": {
+        "21357": {
+          "id": 21357,
+          "identifier": {
+            "upcNumber": "906414147"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2585320
+            },
+            "sizes": {
+              "selectedSize": 0
+            }
+          }
+        },
+        "21358": {
+          "id": 21358,
+          "identifier": {
+            "upcNumber": "906031269"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2585320
+            },
+            "sizes": {
+              "selectedSize": 1
+            }
+          }
+        },
+        "21359": {
+          "id": 21359,
+          "identifier": {
+            "upcNumber": "906414178"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2585320
+            },
+            "sizes": {
+              "selectedSize": 2
+            }
+          }
+        },
+        "21360": {
+          "id": 21360,
+          "identifier": {
+            "upcNumber": "906035465"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2585320
+            },
+            "sizes": {
+              "selectedSize": 3
+            }
+          }
+        },
+        "21361": {
+          "id": 21361,
+          "identifier": {
+            "upcNumber": "906414215"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2585320
+            },
+            "sizes": {
+              "selectedSize": 4
+            }
+          }
+        },
+        "21362": {
+          "id": 21362,
+          "identifier": {
+            "upcNumber": "906039357"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2585320
+            },
+            "sizes": {
+              "selectedSize": 5
+            }
+          }
+        },
+        "21363": {
+          "id": 21363,
+          "identifier": {
+            "upcNumber": "906219414"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2585320
+            },
+            "sizes": {
+              "selectedSize": 6
+            }
+          }
+        },
+        "21364": {
+          "id": 21364,
+          "identifier": {
+            "upcNumber": "906045518"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2585320
+            },
+            "sizes": {
+              "selectedSize": 7
+            }
+          }
+        },
+        "21365": {
+          "id": 21365,
+          "identifier": {
+            "upcNumber": "906219490"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2585320
+            },
+            "sizes": {
+              "selectedSize": 8
+            }
+          }
+        },
+        "21366": {
+          "id": 21366,
+          "identifier": {
+            "upcNumber": "906048861"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2585320
+            },
+            "sizes": {
+              "selectedSize": 9
+            }
+          }
+        },
+        "21367": {
+          "id": 21367,
+          "identifier": {
+            "upcNumber": "906219537"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2585320
+            },
+            "sizes": {
+              "selectedSize": 10
+            }
+          }
+        },
+        "21368": {
+          "id": 21368,
+          "identifier": {
+            "upcNumber": "906219568"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2585320
+            },
+            "sizes": {
+              "selectedSize": 11
+            }
+          }
+        },
+        "503623": {
+          "id": 503623,
+          "identifier": {
+            "upcNumber": "906995035"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2595146
+            },
+            "sizes": {
+              "selectedSize": 0
+            }
+          }
+        },
+        "503624": {
+          "id": 503624,
+          "identifier": {
+            "upcNumber": "906995042"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2595146
+            },
+            "sizes": {
+              "selectedSize": 1
+            }
+          }
+        },
+        "503625": {
+          "id": 503625,
+          "identifier": {
+            "upcNumber": "906995059"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2595146
+            },
+            "sizes": {
+              "selectedSize": 2
+            }
+          }
+        },
+        "503626": {
+          "id": 503626,
+          "identifier": {
+            "upcNumber": "906995066"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2595146
+            },
+            "sizes": {
+              "selectedSize": 3
+            }
+          }
+        },
+        "503627": {
+          "id": 503627,
+          "identifier": {
+            "upcNumber": "906995073"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2595146
+            },
+            "sizes": {
+              "selectedSize": 4
+            }
+          }
+        },
+        "503628": {
+          "id": 503628,
+          "identifier": {
+            "upcNumber": "906995080"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2595146
+            },
+            "sizes": {
+              "selectedSize": 5
+            }
+          }
+        },
+        "503629": {
+          "id": 503629,
+          "identifier": {
+            "upcNumber": "906995097"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2595146
+            },
+            "sizes": {
+              "selectedSize": 6
+            }
+          }
+        },
+        "503630": {
+          "id": 503630,
+          "identifier": {
+            "upcNumber": "906995103"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2595146
+            },
+            "sizes": {
+              "selectedSize": 7
+            }
+          }
+        },
+        "503631": {
+          "id": 503631,
+          "identifier": {
+            "upcNumber": "906995110"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2595146
+            },
+            "sizes": {
+              "selectedSize": 8
+            }
+          }
+        },
+        "503632": {
+          "id": 503632,
+          "identifier": {
+            "upcNumber": "906995127"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2595146
+            },
+            "sizes": {
+              "selectedSize": 9
+            }
+          }
+        },
+        "503633": {
+          "id": 503633,
+          "identifier": {
+            "upcNumber": "906995134"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2595146
+            },
+            "sizes": {
+              "selectedSize": 10
+            }
+          }
+        },
+        "503634": {
+          "id": 503634,
+          "identifier": {
+            "upcNumber": "906995141"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2595146
+            },
+            "sizes": {
+              "selectedSize": 11
+            }
+          }
+        },
+        "710491": {
+          "id": 710491,
+          "identifier": {
+            "upcNumber": "906073795"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2585320
+            },
+            "sizes": {
+              "selectedSize": 12
+            }
+          }
+        },
+        "710492": {
+          "id": 710492,
+          "identifier": {
+            "upcNumber": "906082902"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2585320
+            },
+            "sizes": {
+              "selectedSize": 13
+            }
+          }
+        },
+        "710493": {
+          "id": 710493,
+          "identifier": {
+            "upcNumber": "906073849"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2585320
+            },
+            "sizes": {
+              "selectedSize": 14
+            }
+          }
+        },
+        "710494": {
+          "id": 710494,
+          "identifier": {
+            "upcNumber": "906086610"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2585320
+            },
+            "sizes": {
+              "selectedSize": 15
+            }
+          }
+        },
+        "710495": {
+          "id": 710495,
+          "identifier": {
+            "upcNumber": "906073924"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2585320
+            },
+            "sizes": {
+              "selectedSize": 16
+            }
+          }
+        },
+        "710496": {
+          "id": 710496,
+          "identifier": {
+            "upcNumber": "906090532"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2585320
+            },
+            "sizes": {
+              "selectedSize": 17
+            }
+          }
+        },
+        "710497": {
+          "id": 710497,
+          "identifier": {
+            "upcNumber": "906404728"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2585320
+            },
+            "sizes": {
+              "selectedSize": 18
+            }
+          }
+        },
+        "710498": {
+          "id": 710498,
+          "identifier": {
+            "upcNumber": "906108923"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2585320
+            },
+            "sizes": {
+              "selectedSize": 19
+            }
+          }
+        },
+        "710499": {
+          "id": 710499,
+          "identifier": {
+            "upcNumber": "906404797"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2585320
+            },
+            "sizes": {
+              "selectedSize": 20
+            }
+          }
+        },
+        "710500": {
+          "id": 710500,
+          "identifier": {
+            "upcNumber": "906113095"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2585320
+            },
+            "sizes": {
+              "selectedSize": 21
+            }
+          }
+        },
+        "710501": {
+          "id": 710501,
+          "identifier": {
+            "upcNumber": "906404834"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2585320
+            },
+            "sizes": {
+              "selectedSize": 22
+            }
+          }
+        },
+        "710502": {
+          "id": 710502,
+          "identifier": {
+            "upcNumber": "906404889"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2585320
+            },
+            "sizes": {
+              "selectedSize": 23
+            }
+          }
+        },
+        "710503": {
+          "id": 710503,
+          "identifier": {
+            "upcNumber": "906219599"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "Just a few left",
+            "lowAvailabilityMessage": "Low Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2585320
+            },
+            "sizes": {
+              "selectedSize": 24
+            }
+          }
+        },
+        "710504": {
+          "id": 710504,
+          "identifier": {
+            "upcNumber": "906404933"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2585320
+            },
+            "sizes": {
+              "selectedSize": 25
+            }
+          }
+        },
+        "710505": {
+          "id": 710505,
+          "identifier": {
+            "upcNumber": "906219643"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2585320
+            },
+            "sizes": {
+              "selectedSize": 26
+            }
+          }
+        },
+        "710506": {
+          "id": 710506,
+          "identifier": {
+            "upcNumber": "906404988"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "Just a few left",
+            "lowAvailabilityMessage": "Low Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2585320
+            },
+            "sizes": {
+              "selectedSize": 27
+            }
+          }
+        },
+        "1406101": {
+          "id": 1406101,
+          "identifier": {
+            "upcNumber": "906995295"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "Just a few left",
+            "lowAvailabilityMessage": "Low Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2595146
+            },
+            "sizes": {
+              "selectedSize": 12
+            }
+          }
+        },
+        "1406102": {
+          "id": 1406102,
+          "identifier": {
+            "upcNumber": "906995301"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2595146
+            },
+            "sizes": {
+              "selectedSize": 13
+            }
+          }
+        },
+        "1406103": {
+          "id": 1406103,
+          "identifier": {
+            "upcNumber": "906995318"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "Just a few left",
+            "lowAvailabilityMessage": "Low Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2595146
+            },
+            "sizes": {
+              "selectedSize": 14
+            }
+          }
+        },
+        "1406104": {
+          "id": 1406104,
+          "identifier": {
+            "upcNumber": "906995325"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "Just a few left",
+            "lowAvailabilityMessage": "Low Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2595146
+            },
+            "sizes": {
+              "selectedSize": 15
+            }
+          }
+        },
+        "1406105": {
+          "id": 1406105,
+          "identifier": {
+            "upcNumber": "906995332"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2595146
+            },
+            "sizes": {
+              "selectedSize": 16
+            }
+          }
+        },
+        "1406106": {
+          "id": 1406106,
+          "identifier": {
+            "upcNumber": "906995349"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "Just a few left",
+            "lowAvailabilityMessage": "Low Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2595146
+            },
+            "sizes": {
+              "selectedSize": 17
+            }
+          }
+        },
+        "1406107": {
+          "id": 1406107,
+          "identifier": {
+            "upcNumber": "906995356"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "Just a few left",
+            "lowAvailabilityMessage": "Low Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2595146
+            },
+            "sizes": {
+              "selectedSize": 18
+            }
+          }
+        },
+        "1406108": {
+          "id": 1406108,
+          "identifier": {
+            "upcNumber": "906995363"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2595146
+            },
+            "sizes": {
+              "selectedSize": 19
+            }
+          }
+        },
+        "1406109": {
+          "id": 1406109,
+          "identifier": {
+            "upcNumber": "906995370"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2595146
+            },
+            "sizes": {
+              "selectedSize": 20
+            }
+          }
+        },
+        "1406110": {
+          "id": 1406110,
+          "identifier": {
+            "upcNumber": "906995387"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2595146
+            },
+            "sizes": {
+              "selectedSize": 21
+            }
+          }
+        },
+        "1406111": {
+          "id": 1406111,
+          "identifier": {
+            "upcNumber": "906995394"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2595146
+            },
+            "sizes": {
+              "selectedSize": 22
+            }
+          }
+        },
+        "1406112": {
+          "id": 1406112,
+          "identifier": {
+            "upcNumber": "906995400"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "In Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2595146
+            },
+            "sizes": {
+              "selectedSize": 23
+            }
+          }
+        },
+        "1406113": {
+          "id": 1406113,
+          "identifier": {
+            "upcNumber": "761020219604"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "Just a few left",
+            "lowAvailabilityMessage": "Low Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2595146
+            },
+            "sizes": {
+              "selectedSize": 24
+            }
+          }
+        },
+        "1406114": {
+          "id": 1406114,
+          "identifier": {
+            "upcNumber": "761020219642"
+          },
+          "messages": {
+            "info": [
+              {}
+            ]
+          },
+          "relationships": {},
+          "availability": {
+            "checkInStoreEligibility": true,
+            "available": true,
+            "shipDays": 2,
+            "message": "Usually ships within 2 business days.",
+            "availabilityMessage": "Just a few left",
+            "lowAvailabilityMessage": "Low Stock",
+            "orderType": "POOL",
+            "bopsAvailability": false,
+            "bossAvailability": false,
+            "storeAvailability": false
+          },
+          "traits": {
+            "colors": {
+              "selectedColor": 2595146
+            },
+            "sizes": {
+              "selectedSize": 25
+            }
+          }
+        }
+      }
+    },
+    "imagery": {
+      "images": [
+        {
+          "filePath": "9/optimized/680899_fpx.tif",
+          "name": "680899.fpx",
+          "showJumboSwatch": false,
+          "swatchSpriteOffset": 0,
+          "swatchSpriteUrlIndex": 0
+        },
+        {
+          "filePath": "9/optimized/680899_fpx.tif",
+          "name": "680899.fpx",
+          "showJumboSwatch": false,
+          "swatchSpriteOffset": 62,
+          "swatchSpriteUrlIndex": 0
+        },
+        {
+          "filePath": "6/optimized/943996_fpx.tif",
+          "name": "943996.fpx",
+          "showJumboSwatch": false,
+          "swatchSpriteOffset": 124,
+          "swatchSpriteUrlIndex": 0
+        },
+        {
+          "filePath": "4/optimized/3920394_fpx.tif",
+          "name": "3920394.fpx",
+          "showJumboSwatch": false,
+          "swatchSpriteOffset": 186,
+          "swatchSpriteUrlIndex": 0
+        },
+        {
+          "filePath": "3/optimized/3920393_fpx.tif",
+          "name": "3920393.fpx",
+          "showJumboSwatch": false,
+          "swatchSpriteOffset": 248,
+          "swatchSpriteUrlIndex": 0
+        },
+        {
+          "filePath": "5/optimized/3920395_fpx.tif",
+          "name": "3920395.fpx",
+          "showJumboSwatch": false,
+          "swatchSpriteOffset": 310,
+          "swatchSpriteUrlIndex": 0
+        },
+        {
+          "filePath": "8/optimized/8328878_fpx.tif",
+          "name": "8328878.fpx",
+          "showJumboSwatch": false,
+          "swatchSpriteOffset": 372,
+          "swatchSpriteUrlIndex": 0
+        },
+        {
+          "filePath": "6/optimized/8773996_fpx.tif",
+          "name": "8773996.fpx",
+          "showJumboSwatch": true,
+          "swatchSpriteOffset": 434,
+          "swatchSpriteUrlIndex": 0
+        }
+      ],
+      "smallImagesSprites": {
+        "spriteUrls": [
+          "?&$b=MCY/swatches/&hei=75&wid=496&cropN=0,0,8,1&resMode=sharp2&fmt=jpeg&qlt=100,0&layer=0&size=496,75&anchor=0,0&layer=1&size=60,75&src=is{$b$9/optimized/680899_fpx.tif}&anchor=0,0&posN=0.000000,0&layer=2&size=60,75&src=is{$b$9/optimized/680899_fpx.tif}&anchor=0,0&posN=0.125000,0&layer=3&size=60,75&src=is{$b$6/optimized/943996_fpx.tif}&anchor=0,0&posN=0.250000,0&layer=4&size=60,75&src=is{$b$4/optimized/3920394_fpx.tif}&anchor=0,0&posN=0.375000,0&layer=5&size=60,75&src=is{$b$3/optimized/3920393_fpx.tif}&anchor=0,0&posN=0.500000,0&layer=6&size=60,75&src=is{$b$5/optimized/3920395_fpx.tif}&anchor=0,0&posN=0.625000,0&layer=7&size=60,75&src=is{$b$8/optimized/8328878_fpx.tif}&anchor=0,0&posN=0.750000,0&layer=8&size=60,75&src=is{$b$6/optimized/8773996_fpx.tif}&anchor=0,0&posN=0.875000,0"
+        ],
+        "imagesWidth": 60,
+        "imagesHeight": 75,
+        "imagesPerSprite": 16
+      },
+      "videoId": "5309702815001"
+    },
+    "availability": {
+      "checkInStoreEligibility": false,
+      "available": true,
+      "bopsAvailability": false,
+      "bossAvailability": false,
+      "storeAvailability": false
+    },
+    "traits": {
+      "colors": {
+        "selectedColor": 2585320,
+        "colorMap": {
+          "2585320": {
+            "id": 2585320,
+            "name": "Wheat",
+            "normalName": "Tan/Beige",
+            "swatchImage": {
+              "filePath": "5/optimized/50115_fpx.tif",
+              "name": "50115.fpx",
+              "showJumboSwatch": false,
+              "swatchSpriteOffset": 0,
+              "swatchSpriteUrlIndex": 0
+            },
+            "imagery": {
+              "images": [
+                {
+                  "filePath": "9/optimized/680899_fpx.tif",
+                  "name": "680899.fpx",
+                  "showJumboSwatch": false,
+                  "swatchSpriteOffset": 0,
+                  "swatchSpriteUrlIndex": 0
+                },
+                {
+                  "filePath": "9/optimized/680899_fpx.tif",
+                  "name": "680899.fpx",
+                  "showJumboSwatch": false,
+                  "swatchSpriteOffset": 62,
+                  "swatchSpriteUrlIndex": 0
+                },
+                {
+                  "filePath": "6/optimized/943996_fpx.tif",
+                  "name": "943996.fpx",
+                  "showJumboSwatch": false,
+                  "swatchSpriteOffset": 124,
+                  "swatchSpriteUrlIndex": 0
+                },
+                {
+                  "filePath": "4/optimized/3920394_fpx.tif",
+                  "name": "3920394.fpx",
+                  "showJumboSwatch": false,
+                  "swatchSpriteOffset": 186,
+                  "swatchSpriteUrlIndex": 0
+                },
+                {
+                  "filePath": "3/optimized/3920393_fpx.tif",
+                  "name": "3920393.fpx",
+                  "showJumboSwatch": false,
+                  "swatchSpriteOffset": 248,
+                  "swatchSpriteUrlIndex": 0
+                },
+                {
+                  "filePath": "5/optimized/3920395_fpx.tif",
+                  "name": "3920395.fpx",
+                  "showJumboSwatch": false,
+                  "swatchSpriteOffset": 310,
+                  "swatchSpriteUrlIndex": 0
+                },
+                {
+                  "filePath": "8/optimized/8328878_fpx.tif",
+                  "name": "8328878.fpx",
+                  "showJumboSwatch": false,
+                  "swatchSpriteOffset": 372,
+                  "swatchSpriteUrlIndex": 0
+                },
+                {
+                  "filePath": "6/optimized/8773996_fpx.tif",
+                  "name": "8773996.fpx",
+                  "showJumboSwatch": true,
+                  "swatchSpriteOffset": 434,
+                  "swatchSpriteUrlIndex": 0
+                }
+              ],
+              "smallImagesSprites": {
+                "spriteUrls": [
+                  "?&$b=MCY/swatches/&hei=75&wid=496&cropN=0,0,8,1&resMode=sharp2&fmt=jpeg&qlt=100,0&layer=0&size=496,75&anchor=0,0&layer=1&size=60,75&src=is{$b$9/optimized/680899_fpx.tif}&anchor=0,0&posN=0.000000,0&layer=2&size=60,75&src=is{$b$9/optimized/680899_fpx.tif}&anchor=0,0&posN=0.125000,0&layer=3&size=60,75&src=is{$b$6/optimized/943996_fpx.tif}&anchor=0,0&posN=0.250000,0&layer=4&size=60,75&src=is{$b$4/optimized/3920394_fpx.tif}&anchor=0,0&posN=0.375000,0&layer=5&size=60,75&src=is{$b$3/optimized/3920393_fpx.tif}&anchor=0,0&posN=0.500000,0&layer=6&size=60,75&src=is{$b$5/optimized/3920395_fpx.tif}&anchor=0,0&posN=0.625000,0&layer=7&size=60,75&src=is{$b$8/optimized/8328878_fpx.tif}&anchor=0,0&posN=0.750000,0&layer=8&size=60,75&src=is{$b$6/optimized/8773996_fpx.tif}&anchor=0,0&posN=0.875000,0"
+                ],
+                "imagesWidth": 60,
+                "imagesHeight": 75,
+                "imagesPerSprite": 16
+              }
+            },
+            "sizes": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27
+            ],
+            "pricing": {
+              "price": {
+                "priceType": {
+                  "text": "Everyday Value",
+                  "onEdv": true,
+                  "onSale": false,
+                  "upcOnSale": false,
+                  "upcOnEdv": false,
+                  "memberProductOnSale": false,
+                  "willBe": false,
+                  "applicableToAllUpcs": true,
+                  "selectItemsOnSale": false,
+                  "isMasterNonRanged": false
+                },
+                "policy": {
+                  "text": "\"Regular\" (REG.) and \"Original\" (ORIG.) prices are offering prices. That means we offered the merchandise in our stores or on macys.com at those prices; however, we may not have sold the item at that price. So, the savings we show from these prices may not be based on actual sales of the item. Some \"Original\" (ORIG.) prices may not have been in effect during the past 90 days."
+                },
+                "tieredPrice": [
+                  {
+                    "label": "",
+                    "values": [
+                      {
+                        "value": 189.98,
+                        "formattedValue": "$189.98",
+                        "type": "edv"
+                      }
+                    ]
+                  }
+                ],
+                "priceTypeId": 13
+              }
+            }
+          },
+          "2595146": {
+            "id": 2595146,
+            "name": "Black Nubuck",
+            "normalName": "Black",
+            "swatchImage": {
+              "filePath": "7/optimized/2386907_fpx.tif",
+              "name": "2386907.fpx",
+              "showJumboSwatch": false,
+              "swatchSpriteOffset": 56,
+              "swatchSpriteUrlIndex": 0
+            },
+            "imagery": {
+              "images": [
+                {
+                  "filePath": "0/optimized/1487620_fpx.tif",
+                  "name": "1487620.fpx",
+                  "showJumboSwatch": false,
+                  "swatchSpriteOffset": 0,
+                  "swatchSpriteUrlIndex": 0
+                },
+                {
+                  "filePath": "8/optimized/8328878_fpx.tif",
+                  "name": "8328878.fpx",
+                  "showJumboSwatch": true,
+                  "swatchSpriteOffset": 62,
+                  "swatchSpriteUrlIndex": 0
+                },
+                {
+                  "filePath": "6/optimized/8773996_fpx.tif",
+                  "name": "8773996.fpx",
+                  "showJumboSwatch": true,
+                  "swatchSpriteOffset": 124,
+                  "swatchSpriteUrlIndex": 0
+                }
+              ],
+              "smallImagesSprites": {
+                "spriteUrls": [
+                  "?&$b=MCY/swatches/&hei=75&wid=186&cropN=0,0,3,1&resMode=sharp2&fmt=jpeg&qlt=100,0&layer=0&size=186,75&anchor=0,0&layer=1&size=60,75&src=is{$b$0/optimized/1487620_fpx.tif}&anchor=0,0&posN=0.000000,0&layer=2&size=60,75&src=is{$b$8/optimized/8328878_fpx.tif}&anchor=0,0&posN=0.333333,0&layer=3&size=60,75&src=is{$b$6/optimized/8773996_fpx.tif}&anchor=0,0&posN=0.666667,0"
+                ],
+                "imagesWidth": 60,
+                "imagesHeight": 75,
+                "imagesPerSprite": 16
+              }
+            },
+            "sizes": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20,
+              21,
+              22,
+              23,
+              24,
+              25
+            ],
+            "pricing": {
+              "price": {
+                "priceType": {
+                  "text": "Everyday Value",
+                  "onEdv": true,
+                  "onSale": false,
+                  "upcOnSale": false,
+                  "upcOnEdv": false,
+                  "memberProductOnSale": false,
+                  "willBe": false,
+                  "applicableToAllUpcs": true,
+                  "selectItemsOnSale": false,
+                  "isMasterNonRanged": false
+                },
+                "policy": {
+                  "text": "\"Regular\" (REG.) and \"Original\" (ORIG.) prices are offering prices. That means we offered the merchandise in our stores or on macys.com at those prices; however, we may not have sold the item at that price. So, the savings we show from these prices may not be based on actual sales of the item. Some \"Original\" (ORIG.) prices may not have been in effect during the past 90 days."
+                },
+                "tieredPrice": [
+                  {
+                    "label": "[PRICE]",
+                    "values": [
+                      {
+                        "value": 189.98,
+                        "formattedValue": "$189.98",
+                        "type": "edv"
+                      }
+                    ]
+                  }
+                ],
+                "priceTypeId": 13
+              }
+            }
+          }
+        },
+        "swatchSprite": {
+          "swatchSpriteUrls": [
+            "?&$b=MCY/swatches/&hei=54&wid=112&cropN=0,0,2,1&resMode=sharp2&fmt=jpeg&qlt=100,0&layer=0&size=112,54&anchor=0,0&layer=1&size=54,54&src=is{$b$5/optimized/50115_fpx.tif}&anchor=0,0&posN=0.000000,0&layer=2&size=54,54&src=is{$b$7/optimized/2386907_fpx.tif}&anchor=0,0&posN=0.500000,0"
+          ],
+          "spriteSwatchSize": 54,
+          "swatchesPerSprite": 16
+        },
+        "orderedColorsById": [
+          2585320,
+          2595146
+        ],
+        "orderedColorsByName": [
+          2595146,
+          2585320
+        ]
+      },
+      "sizes": {
+        "orderedSizesBySeqNumber": [
+          0,
+          12,
+          1,
+          13,
+          2,
+          14,
+          3,
+          15,
+          4,
+          16,
+          5,
+          17,
+          6,
+          18,
+          7,
+          19,
+          8,
+          20,
+          9,
+          21,
+          10,
+          22,
+          11,
+          23,
+          24,
+          25,
+          26,
+          27
+        ],
+        "sizeChartImg": "https://assets.macysassets.com/dyn_img/size_charts/4071480.gif",
+        "sizeMap": {
+          "0": {
+            "id": 0,
+            "name": "7",
+            "displayName": "7",
+            "colors": [
+              2585320,
+              2595146
+            ]
+          },
+          "1": {
+            "id": 1,
+            "name": "7.5",
+            "displayName": "7.5",
+            "colors": [
+              2585320,
+              2595146
+            ]
+          },
+          "2": {
+            "id": 2,
+            "name": "8",
+            "displayName": "8",
+            "colors": [
+              2585320,
+              2595146
+            ]
+          },
+          "3": {
+            "id": 3,
+            "name": "8.5",
+            "displayName": "8.5",
+            "colors": [
+              2585320,
+              2595146
+            ]
+          },
+          "4": {
+            "id": 4,
+            "name": "9",
+            "displayName": "9",
+            "colors": [
+              2585320,
+              2595146
+            ]
+          },
+          "5": {
+            "id": 5,
+            "name": "9.5",
+            "displayName": "9.5",
+            "colors": [
+              2585320,
+              2595146
+            ]
+          },
+          "6": {
+            "id": 6,
+            "name": "10",
+            "displayName": "10",
+            "colors": [
+              2585320,
+              2595146
+            ]
+          },
+          "7": {
+            "id": 7,
+            "name": "10.5",
+            "displayName": "10.5",
+            "colors": [
+              2585320,
+              2595146
+            ]
+          },
+          "8": {
+            "id": 8,
+            "name": "11",
+            "displayName": "11",
+            "colors": [
+              2585320,
+              2595146
+            ]
+          },
+          "9": {
+            "id": 9,
+            "name": "11.5",
+            "displayName": "11.5",
+            "colors": [
+              2585320,
+              2595146
+            ]
+          },
+          "10": {
+            "id": 10,
+            "name": "12",
+            "displayName": "12",
+            "colors": [
+              2585320,
+              2595146
+            ]
+          },
+          "11": {
+            "id": 11,
+            "name": "13",
+            "displayName": "13",
+            "colors": [
+              2585320,
+              2595146
+            ]
+          },
+          "12": {
+            "id": 12,
+            "name": "7W",
+            "displayName": "7W",
+            "colors": [
+              2585320,
+              2595146
+            ]
+          },
+          "13": {
+            "id": 13,
+            "name": "7.5W",
+            "displayName": "7.5W",
+            "colors": [
+              2585320,
+              2595146
+            ]
+          },
+          "14": {
+            "id": 14,
+            "name": "8W",
+            "displayName": "8W",
+            "colors": [
+              2585320,
+              2595146
+            ]
+          },
+          "15": {
+            "id": 15,
+            "name": "8.5W",
+            "displayName": "8.5W",
+            "colors": [
+              2585320,
+              2595146
+            ]
+          },
+          "16": {
+            "id": 16,
+            "name": "9W",
+            "displayName": "9W",
+            "colors": [
+              2585320,
+              2595146
+            ]
+          },
+          "17": {
+            "id": 17,
+            "name": "9.5W",
+            "displayName": "9.5W",
+            "colors": [
+              2585320,
+              2595146
+            ]
+          },
+          "18": {
+            "id": 18,
+            "name": "10W",
+            "displayName": "10W",
+            "colors": [
+              2585320,
+              2595146
+            ]
+          },
+          "19": {
+            "id": 19,
+            "name": "10.5W",
+            "displayName": "10.5W",
+            "colors": [
+              2585320,
+              2595146
+            ]
+          },
+          "20": {
+            "id": 20,
+            "name": "11W",
+            "displayName": "11W",
+            "colors": [
+              2585320,
+              2595146
+            ]
+          },
+          "21": {
+            "id": 21,
+            "name": "11.5W",
+            "displayName": "11.5W",
+            "colors": [
+              2585320,
+              2595146
+            ]
+          },
+          "22": {
+            "id": 22,
+            "name": "12W",
+            "displayName": "12W",
+            "colors": [
+              2585320,
+              2595146
+            ]
+          },
+          "23": {
+            "id": 23,
+            "name": "13W",
+            "displayName": "13W",
+            "colors": [
+              2585320,
+              2595146
+            ]
+          },
+          "24": {
+            "id": 24,
+            "name": "14",
+            "displayName": "14",
+            "colors": [
+              2585320,
+              2595146
+            ]
+          },
+          "25": {
+            "id": 25,
+            "name": "14W",
+            "displayName": "14W",
+            "colors": [
+              2585320,
+              2595146
+            ]
+          },
+          "26": {
+            "id": 26,
+            "name": "15",
+            "displayName": "15",
+            "colors": [
+              2585320
+            ]
+          },
+          "27": {
+            "id": 27,
+            "name": "15W",
+            "displayName": "15W",
+            "colors": [
+              2585320
+            ]
+          }
+        }
+      },
+      "traitsMaps": {
+        "upcMap": {
+          "2585320_9": 21366,
+          "2585320_8": 21365,
+          "2585320_7": 21364,
+          "2585320_6": 21363,
+          "2585320_5": 21362,
+          "2595146_23": 1406112,
+          "2585320_4": 21361,
+          "2595146_24": 1406113,
+          "2585320_3": 21360,
+          "2595146_25": 1406114,
+          "2585320_2": 21359,
+          "2585320_1": 21358,
+          "2585320_0": 21357,
+          "2595146_20": 1406109,
+          "2595146_21": 1406110,
+          "2595146_22": 1406111,
+          "2585320_11": 21368,
+          "2585320_12": 710491,
+          "2585320_10": 21367,
+          "2595146_12": 1406101,
+          "2595146_13": 1406102,
+          "2595146_14": 1406103,
+          "2595146_15": 1406104,
+          "2595146_10": 503633,
+          "2595146_11": 503634,
+          "2595146_16": 1406105,
+          "2595146_17": 1406106,
+          "2595146_18": 1406107,
+          "2595146_19": 1406108,
+          "2585320_19": 710498,
+          "2585320_17": 710496,
+          "2585320_18": 710497,
+          "2585320_15": 710494,
+          "2585320_16": 710495,
+          "2585320_13": 710492,
+          "2585320_14": 710493,
+          "2585320_22": 710501,
+          "2585320_23": 710502,
+          "2585320_20": 710499,
+          "2585320_21": 710500,
+          "2595146_5": 503628,
+          "2595146_6": 503629,
+          "2595146_3": 503626,
+          "2595146_4": 503627,
+          "2595146_9": 503632,
+          "2595146_7": 503630,
+          "2595146_8": 503631,
+          "2595146_1": 503624,
+          "2585320_26": 710505,
+          "2595146_2": 503625,
+          "2585320_27": 710506,
+          "2585320_24": 710503,
+          "2595146_0": 503623,
+          "2585320_25": 710504
+        },
+        "priceToColors": [
+          {
+            "price": "$189.98",
+            "colorIds": [
+              2585320,
+              2595146
+            ],
+            "onSale": false
+          }
+        ]
+      }
+    },
+    "pricing": {
+      "price": {
+        "priceType": {
+          "text": "Everyday Value",
+          "onEdv": true,
+          "onSale": false,
+          "upcOnSale": false,
+          "upcOnEdv": false,
+          "memberProductOnSale": false,
+          "willBe": false,
+          "applicableToAllUpcs": true,
+          "selectItemsOnSale": false,
+          "isMasterNonRanged": false
+        },
+        "policy": {
+          "text": "\"Regular\" (REG.) and \"Original\" (ORIG.) prices are offering prices. That means we offered the merchandise in our stores or on macys.com at those prices; however, we may not have sold the item at that price. So, the savings we show from these prices may not be based on actual sales of the item. Some \"Original\" (ORIG.) prices may not have been in effect during the past 90 days."
+        },
+        "tieredPrice": [
+          {
+            "label": "[PRICE]",
+            "values": [
+              {
+                "value": 189.98,
+                "formattedValue": "$189.98",
+                "type": "edv"
+              }
+            ]
+          }
+        ],
+        "priceTypeId": 13
+      },
+      "badgesMap": {
+        "19883160": {
+          "walletEligible": false,
+          "checkoutDescription": " Enjoy free shipping when you spend $49 or more! See exclusions for details.",
+          "description": "Enjoy Free Shipping at $49! See exclusions.",
+          "promoId": "19883160",
+          "header": "Free ship at $49",
+          "applicableToAllUpcs": true,
+          "offer": "OTHERS",
+          "promotionType": "Free Shipping",
+          "hasMorePromotionDetails": false
+        }
+      },
+      "badgeIds": [
+        "19883160"
+      ]
+    },
+    "review": {
+      "hasErrors": false,
+      "reviews": [
+        {
+          "reviewId": 207433474,
+          "rating": 5,
+          "title": "My son Luvs it",
+          "reviewText": "Luv this boots easy purchase fast shipping!!!\nMy teenage son looks so cute in them..",
+          "topContributor": false,
+          "anonymous": false,
+          "displayName": "Luvmymakeup78"
+        },
+        {
+          "reviewId": 207104828,
+          "rating": 5,
+          "title": "All time classics",
+          "reviewText": "I love these boots guys and I have been wearing them for years every time they get dirty I buy another pair.  They are comfortable and not too heavy on my foot. I wear them in winter, fall, spring and summer.",
+          "topContributor": false,
+          "anonymous": false,
+          "displayName": "seddy"
+        },
+        {
+          "reviewId": 206061081,
+          "rating": 4,
+          "title": "Great With Any Style",
+          "reviewText": "it's a great boot that you can wear with just about anything",
+          "topContributor": false,
+          "anonymous": false,
+          "displayName": "Jmill"
+        },
+        {
+          "reviewId": 205540151,
+          "rating": 5,
+          "title": "Hardworking shoes",
+          "reviewText": "These boots were great, my husband loved them. He says that they keep his feet snug, warm and dry",
+          "topContributor": false,
+          "anonymous": false,
+          "displayName": "Makeupobs23"
+        },
+        {
+          "reviewId": 204197847,
+          "rating": 5,
+          "title": "Great Gift",
+          "reviewText": "I gave these to my fiance as a birthday gift and he loves it. You can not go wrong with these classics it is almost a necessary must have in every New Yorkers closet lol goes great with many different outfit options and gives a clean look while keeping your feet dry.",
+          "topContributor": false,
+          "anonymous": false,
+          "displayName": "EM1014"
+        },
+        {
+          "reviewId": 203813539,
+          "rating": 5,
+          "title": "He loves his boots",
+          "reviewText": "Purchased as a gift. True to size. No complaints from him about his gift.",
+          "topContributor": false,
+          "anonymous": false,
+          "displayName": "Slimkal"
+        },
+        {
+          "reviewId": 203779332,
+          "rating": 5,
+          "title": "comfy Boot",
+          "reviewText": "My son loves these boots. they fit true to size and he has a wide foot.",
+          "topContributor": false,
+          "anonymous": false,
+          "displayName": "fab5five"
+        },
+        {
+          "reviewId": 203319275,
+          "rating": 5,
+          "title": "New school old school",
+          "reviewText": "Excellent old school new school boot goes with everything like white air force 1 can't go wrong, but them and make a statement",
+          "topContributor": false,
+          "anonymous": false,
+          "displayName": "Mike"
+        },
+        {
+          "reviewId": 203289523,
+          "rating": 5,
+          "title": "My son is very happy with his Timbs!",
+          "reviewText": "I ordered these boots for my 19 year old son for Christmas. Lots of guys at college have these and since it's wintry weather in Ithaca NY right now, these are fantastic. He loves the style and they are perfect with jeans. Keeps his feet warm and dry while walking to class and around campus. My first job was working at Timberland Co in Newmarket NH where they make them. So a bit of nostalgia for me and pride that this dependable and high quality product is now on my son's feet! Fast shipping, received in just 3 days.",
+          "topContributor": false,
+          "anonymous": false,
+          "displayName": "MarcieA"
+        },
+        {
+          "reviewId": 203097067,
+          "rating": 5,
+          "title": "Comfort and style",
+          "reviewText": "I love the Timberland boot, they are stylish yet the keep my feet warm, dry  and they are very comfortable.  I love getting them from Macy's because they usually have them at a better price and I can pick them up near my job from the store.",
+          "topContributor": false,
+          "anonymous": false,
+          "displayName": "NewShoes72"
+        },
+        {
+          "reviewId": 203076088,
+          "rating": 4,
+          "title": "Great boots!",
+          "reviewText": "I bought these boots for my  son as a Christmas Gift. He loves them!",
+          "topContributor": false,
+          "anonymous": false,
+          "displayName": "Deedee"
+        },
+        {
+          "reviewId": 203057152,
+          "rating": 5,
+          "title": "great quality",
+          "reviewText": "I buy a pair of these and use them for a whole decade. Great quality. Worth the money",
+          "topContributor": false,
+          "anonymous": false,
+          "displayName": "Jeff"
+        },
+        {
+          "reviewId": 203056808,
+          "rating": 5,
+          "title": "Awesome boots",
+          "reviewText": "These boots are very well made and are a little more fitted than the regular timberlands, since these are premium.",
+          "topContributor": false,
+          "anonymous": false,
+          "displayName": "shopabounds"
+        },
+        {
+          "reviewId": 203049417,
+          "rating": 4,
+          "title": "Great stylish boots",
+          "reviewText": "Haven’t owned a pair in years. Way more comfy than they used to be. Runs half a size too large.",
+          "topContributor": false,
+          "anonymous": false,
+          "displayName": "Elvio"
+        },
+        {
+          "reviewId": 202829106,
+          "rating": 5,
+          "title": "Excellent product",
+          "reviewText": "Excellent product, water proof, we used it in the snow and hiking and they were very comfortable",
+          "topContributor": false,
+          "anonymous": false,
+          "displayName": "Doris"
+        },
+        {
+          "reviewId": 202732842,
+          "rating": 5,
+          "title": "Great fit",
+          "reviewText": "I love the fit, it was just right. I ordered my 3 grandchildren a pair also. They love the boots.",
+          "topContributor": false,
+          "anonymous": false,
+          "displayName": "Rozy"
+        },
+        {
+          "reviewId": 202682233,
+          "rating": 5,
+          "title": "Quality winter boots",
+          "reviewText": "I have been a great supporter for this shoe , it’s great for all year round and especially when it’s cold and your toes want that comfort and warm feeling , I will always trust in a timberland",
+          "topContributor": false,
+          "anonymous": false,
+          "displayName": "Brixton"
+        },
+        {
+          "reviewId": 202654850,
+          "rating": 5,
+          "title": "Quality purchase as always from Macy’s",
+          "reviewText": "Macy’s has always a way to save on good quality purchases..",
+          "topContributor": false,
+          "anonymous": false,
+          "displayName": "Folie65"
+        },
+        {
+          "reviewId": 202586433,
+          "rating": 5,
+          "title": "Great Purchase",
+          "reviewText": "Excellent gift for my nephew!! He loves them! He was looking for those exact boots & he couldn't believe they had them at Macy's. He loves Macy's now because of them.",
+          "topContributor": false,
+          "anonymous": false,
+          "displayName": "WeLoveMacys"
+        },
+        {
+          "reviewId": 202562684,
+          "rating": 5,
+          "title": "Christmas if for giving",
+          "reviewText": "I gave my boyfriend these for Christmas and he cant seem to take them off. Perfect gift from my favorite place to my favorite person.",
+          "topContributor": false,
+          "anonymous": false,
+          "displayName": "1urbanfashionisto"
+        }
+      ]
+    },
+    "urlTemplate": {
+      "swatch": "https://slimages.macysassets.com/is/image/MCY/swatches/",
+      "swatchSprite": "https://slimages.macysassets.com/is/image/MCY/",
+      "product": "https://slimages.macysassets.com/is/image/MCY/products/"
+    },
+    "seotags": {
+      "seotags": "<div class='mktTagCloudTitle a0705162018'>Popular Searches</div><div class='mktTagCloudLinks'><ul><li><a href='/shop/b/Black-Boots?id=80590'>Black Boots</a></li> <li><a href='/shop/b/Casual-Shoes?id=81156'>Casual Shoes</a></li> <li><a href='/shop/b/Leather-Shoes?id=72336'>Leather Shoes</a></li> <li><a href='/shop/sale/memorial-day-sale?id=172846'>Memorial Day Sale</a></li> <li><a href='/shop/b/Mens-Black-Shoes?id=85378'>Mens Black Shoes</a></li> <li><a href='/shop/b/Mens-Formal-Shoes?id=72892'>Mens Formal Shoes</a></li> <li><a href='/shop/b/Mens-Leather-Shoes?id=81276'>Mens Leather Shoes</a></li> <li><a href='/shop/b/Mens-Rain-Boots?id=74547'>Mens Rain Boots</a></li> <li><a href='/shop/b/Mens-Summer-Shoes?id=78256'>Mens Summer Shoes</a></li> <li><a href='/shop/b/Rain-Shoes?id=91050'>Rain Shoes</a></li></ul></div>\n"
+    }
+  },
+  "viewState": {
+    "imagery": {
+      "images": [
+        {
+          "filePath": "9/optimized/680899_fpx.tif",
+          "name": "680899.fpx",
+          "showJumboSwatch": false,
+          "swatchSpriteOffset": 0,
+          "swatchSpriteUrlIndex": 0
+        },
+        {
+          "filePath": "9/optimized/680899_fpx.tif",
+          "name": "680899.fpx",
+          "showJumboSwatch": false,
+          "swatchSpriteOffset": 62,
+          "swatchSpriteUrlIndex": 0
+        },
+        {
+          "filePath": "6/optimized/943996_fpx.tif",
+          "name": "943996.fpx",
+          "showJumboSwatch": false,
+          "swatchSpriteOffset": 124,
+          "swatchSpriteUrlIndex": 0
+        },
+        {
+          "filePath": "4/optimized/3920394_fpx.tif",
+          "name": "3920394.fpx",
+          "showJumboSwatch": false,
+          "swatchSpriteOffset": 186,
+          "swatchSpriteUrlIndex": 0
+        },
+        {
+          "filePath": "3/optimized/3920393_fpx.tif",
+          "name": "3920393.fpx",
+          "showJumboSwatch": false,
+          "swatchSpriteOffset": 248,
+          "swatchSpriteUrlIndex": 0
+        },
+        {
+          "filePath": "5/optimized/3920395_fpx.tif",
+          "name": "3920395.fpx",
+          "showJumboSwatch": false,
+          "swatchSpriteOffset": 310,
+          "swatchSpriteUrlIndex": 0
+        },
+        {
+          "filePath": "8/optimized/8328878_fpx.tif",
+          "name": "8328878.fpx",
+          "showJumboSwatch": false,
+          "swatchSpriteOffset": 372,
+          "swatchSpriteUrlIndex": 0
+        },
+        {
+          "filePath": "6/optimized/8773996_fpx.tif",
+          "name": "8773996.fpx",
+          "showJumboSwatch": true,
+          "swatchSpriteOffset": 434,
+          "swatchSpriteUrlIndex": 0
+        }
+      ],
+      "smallImagesSprites": {
+        "spriteUrls": [
+          "?&$b=MCY/swatches/&hei=75&wid=496&cropN=0,0,8,1&resMode=sharp2&fmt=jpeg&qlt=100,0&layer=0&size=496,75&anchor=0,0&layer=1&size=60,75&src=is{$b$9/optimized/680899_fpx.tif}&anchor=0,0&posN=0.000000,0&layer=2&size=60,75&src=is{$b$9/optimized/680899_fpx.tif}&anchor=0,0&posN=0.125000,0&layer=3&size=60,75&src=is{$b$6/optimized/943996_fpx.tif}&anchor=0,0&posN=0.250000,0&layer=4&size=60,75&src=is{$b$4/optimized/3920394_fpx.tif}&anchor=0,0&posN=0.375000,0&layer=5&size=60,75&src=is{$b$3/optimized/3920393_fpx.tif}&anchor=0,0&posN=0.500000,0&layer=6&size=60,75&src=is{$b$5/optimized/3920395_fpx.tif}&anchor=0,0&posN=0.625000,0&layer=7&size=60,75&src=is{$b$8/optimized/8328878_fpx.tif}&anchor=0,0&posN=0.750000,0&layer=8&size=60,75&src=is{$b$6/optimized/8773996_fpx.tif}&anchor=0,0&posN=0.875000,0"
+        ],
+        "imagesWidth": 60,
+        "imagesHeight": 75,
+        "imagesPerSprite": 16
+      },
+      "videoId": "5309702815001"
+    },
+    "detail": {
+      "flags": {
+        "isInternationalMode": false,
+        "isRegistryMode": false,
+        "hasColors": true,
+        "hasColorSwatches": true,
+        "hasSizes": true,
+        "hasTypes": false,
+        "shouldDisplayAddToList": true,
+        "shouldDisplayAddToRegistry": false,
+        "shouldDisplayBigTicketAvailabilityMessage": true,
+        "shouldDisplayMasterGrid": false,
+        "isMultiTiered": false,
+        "isBuyItNowItem": true
+      },
+      "selectedQuantity": 1,
+      "isMaximumQuantity": false,
+      "isMinimumQuantity": true,
+      "selectedColor": 2585320,
+      "selectedPrice": {
+        "price": {
+          "priceType": {
+            "text": "Everyday Value",
+            "onEdv": true,
+            "onSale": false,
+            "upcOnSale": false,
+            "upcOnEdv": false,
+            "memberProductOnSale": false,
+            "willBe": false,
+            "applicableToAllUpcs": true,
+            "selectItemsOnSale": false,
+            "isMasterNonRanged": false
+          },
+          "policy": {
+            "text": "\"Regular\" (REG.) and \"Original\" (ORIG.) prices are offering prices. That means we offered the merchandise in our stores or on macys.com at those prices; however, we may not have sold the item at that price. So, the savings we show from these prices may not be based on actual sales of the item. Some \"Original\" (ORIG.) prices may not have been in effect during the past 90 days."
+          },
+          "tieredPrice": [
+            {
+              "label": "",
+              "values": [
+                {
+                  "value": 189.98,
+                  "formattedValue": "$189.98",
+                  "type": "edv"
+                }
+              ]
+            }
+          ],
+          "priceTypeId": 13
+        }
+      },
+      "selectedFinalPrice": {},
+      "interactedAltImages": 0,
+      "isShipItSelected": true,
+      "isPickUpInStoreSelected": false,
+      "breadCrumbCategory": "Men - All Men's Shoes",
+      "similarItemsUrl": "/shop/mens-clothing/mens-shoes?id=65&edge=hybrid",
+      "unselectedTraits": "size",
+      "isUpcAvailableInStore": false
+    },
+    "traits": {
+      "size": {
+        "swatchTiers": [
+          {
+            "swatches": [
+              {
+                "id": 0,
+                "isAvailable": true,
+                "displayName": "7",
+                "swatchSize": ""
+              },
+              {
+                "id": 12,
+                "isAvailable": true,
+                "displayName": "7W",
+                "swatchSize": ""
+              },
+              {
+                "id": 1,
+                "isAvailable": true,
+                "displayName": "7.5",
+                "swatchSize": ""
+              },
+              {
+                "id": 13,
+                "isAvailable": true,
+                "displayName": "7.5W",
+                "swatchSize": ""
+              },
+              {
+                "id": 2,
+                "isAvailable": true,
+                "displayName": "8",
+                "swatchSize": ""
+              },
+              {
+                "id": 14,
+                "isAvailable": true,
+                "displayName": "8W",
+                "swatchSize": ""
+              },
+              {
+                "id": 3,
+                "isAvailable": true,
+                "displayName": "8.5",
+                "swatchSize": ""
+              },
+              {
+                "id": 15,
+                "isAvailable": true,
+                "displayName": "8.5W",
+                "swatchSize": ""
+              },
+              {
+                "id": 4,
+                "isAvailable": true,
+                "displayName": "9",
+                "swatchSize": ""
+              },
+              {
+                "id": 16,
+                "isAvailable": true,
+                "displayName": "9W",
+                "swatchSize": ""
+              },
+              {
+                "id": 5,
+                "isAvailable": true,
+                "displayName": "9.5",
+                "swatchSize": ""
+              },
+              {
+                "id": 17,
+                "isAvailable": true,
+                "displayName": "9.5W",
+                "swatchSize": ""
+              },
+              {
+                "id": 6,
+                "isAvailable": true,
+                "displayName": "10",
+                "swatchSize": ""
+              },
+              {
+                "id": 18,
+                "isAvailable": true,
+                "displayName": "10W",
+                "swatchSize": ""
+              },
+              {
+                "id": 7,
+                "isAvailable": true,
+                "displayName": "10.5",
+                "swatchSize": ""
+              },
+              {
+                "id": 19,
+                "isAvailable": true,
+                "displayName": "10.5W",
+                "swatchSize": ""
+              },
+              {
+                "id": 8,
+                "isAvailable": true,
+                "displayName": "11",
+                "swatchSize": ""
+              },
+              {
+                "id": 20,
+                "isAvailable": true,
+                "displayName": "11W",
+                "swatchSize": ""
+              },
+              {
+                "id": 9,
+                "isAvailable": true,
+                "displayName": "11.5",
+                "swatchSize": ""
+              },
+              {
+                "id": 21,
+                "isAvailable": true,
+                "displayName": "11.5W",
+                "swatchSize": ""
+              },
+              {
+                "id": 10,
+                "isAvailable": true,
+                "displayName": "12",
+                "swatchSize": ""
+              },
+              {
+                "id": 22,
+                "isAvailable": true,
+                "displayName": "12W",
+                "swatchSize": ""
+              },
+              {
+                "id": 11,
+                "isAvailable": true,
+                "displayName": "13",
+                "swatchSize": ""
+              },
+              {
+                "id": 23,
+                "isAvailable": true,
+                "displayName": "13W",
+                "swatchSize": ""
+              },
+              {
+                "id": 24,
+                "isAvailable": true,
+                "displayName": "14",
+                "swatchSize": ""
+              },
+              {
+                "id": 25,
+                "isAvailable": true,
+                "displayName": "14W",
+                "swatchSize": ""
+              },
+              {
+                "id": 26,
+                "isAvailable": true,
+                "displayName": "15",
+                "swatchSize": ""
+              },
+              {
+                "id": 27,
+                "isAvailable": true,
+                "displayName": "15W",
+                "swatchSize": ""
+              }
+            ]
+          }
+        ]
+      },
+      "type": null,
+      "color": {
+        "swatchTiers": [
+          {
+            "price": "$189.98",
+            "onSale": false,
+            "swatches": [
+              {
+                "id": 2585320,
+                "isAvailable": true,
+                "swatchSpriteOffset": 0,
+                "swatchSpriteUrl": "?&$b=MCY/swatches/&hei=54&wid=112&cropN=0,0,2,1&resMode=sharp2&fmt=jpeg&qlt=100,0&layer=0&size=112,54&anchor=0,0&layer=1&size=54,54&src=is{$b$5/optimized/50115_fpx.tif}&anchor=0,0&posN=0.000000,0&layer=2&size=54,54&src=is{$b$7/optimized/2386907_fpx.tif}&anchor=0,0&posN=0.500000,0",
+                "isSelected": true
+              },
+              {
+                "id": 2595146,
+                "isAvailable": true,
+                "swatchSpriteOffset": 56,
+                "swatchSpriteUrl": "?&$b=MCY/swatches/&hei=54&wid=112&cropN=0,0,2,1&resMode=sharp2&fmt=jpeg&qlt=100,0&layer=0&size=112,54&anchor=0,0&layer=1&size=54,54&src=is{$b$5/optimized/50115_fpx.tif}&anchor=0,0&posN=0.000000,0&layer=2&size=54,54&src=is{$b$7/optimized/2386907_fpx.tif}&anchor=0,0&posN=0.500000,0"
+              }
+            ]
+          }
+        ],
+        "selectedSwatchIndex": 0,
+        "selectedTierIndex": 0
+      }
+    },
+    "badges": {
+      "badgeData": [
+        {
+          "walletEligible": false,
+          "checkoutDescription": " Enjoy free shipping when you spend $49 or more! See exclusions for details.",
+          "description": "Enjoy Free Shipping at $49! See exclusions.",
+          "promoId": "19883160",
+          "header": "Free ship at $49",
+          "applicableToAllUpcs": true,
+          "offer": "OTHERS",
+          "promotionType": "Free Shipping",
+          "hasMorePromotionDetails": false
+        }
+      ],
+      "topBadges": [
+        {
+          "header": "Free ship at $49",
+          "applicableToAllUpcs": true,
+          "id": "19883160",
+          "code": ""
+        }
+      ],
+      "shouldDisplayMoreOffers": false
+    },
+    "availability": {
+      "checkInStoreEligibility": false,
+      "available": true,
+      "bopsAvailability": false,
+      "bossAvailability": false,
+      "storeAvailability": false
+    },
+    "featuresViewState": {
+      "accordionPriceDetail": true,
+      "socialIcons": true,
+      "egiftCardEnabled": false
+    }
+  },
+  "context": {
+    "pdpServer": "internal",
+    "shoppingMode": "SITE",
+    "regionCode": "US",
+    "currencyCode": "USD",
+    "customerState": "GUEST",
+    "deviceType": "DESKTOP"
+  },
+  "properties": {
+    "pdpServer": "internal",
+    "requestedProductId": "2725209",
+    "isMasterGridEnabled": true,
+    "isClearanceLabelExperimentEnabled": true,
+    "isQuickViewEnabled": false,
+    "isEgiftCardEnabled": true,
+    "isProsEnabled": true,
+    "isReviewsEnabled": true,
+    "isItemAvailabilityOptimizedBopsExperienceEnabled": false,
+    "isSizeChartEnabled": true,
+    "isTealiumEnabled": true,
+    "isCoremetricsEnabled": true,
+    "singleDomain2018Enabled": false,
+    "isProductNotAvailableEnabled": true,
+    "isIshipMemberEnabled": true,
+    "isIshipMasterEnabled": true,
+    "isIshipEnabled": true,
+    "isReviewsStructuredContentEnabled": true,
+    "facebookAppId": "172562576126509",
+    "tealiumTagLibrary": "main",
+    "isChanelMasterPageEnabled": true,
+    "isChanelMemberPageEnabled": true,
+    "isRegistryEnabled": true,
+    "isBigTicketMasterPageEnabled": true,
+    "isBigTicketPageEnabled": true,
+    "isMasterPageSupportedEnabled": true,
+    "isLazyLoadHeaderEnabled": true,
+    "coremetricsHostUrl": "www3.macys.com",
+    "coremetricsClientId": "90067660",
+    "assetHost": "/pdpinternal",
+    "coremetricsCustomAnalyticsUrl": "https://www.macys.com/web20/assets/script/coremetrics/cmcustom.js",
+    "coremetricsAnalyticsUrl": "//libs.coremetrics.com/v4.18.130/eluminate.js",
+    "tagEnv": "prod",
+    "webConcurrency": "4",
+    "nodeEnv": "production",
+    "pdpXapiHost": "",
+    "headerBagServiceproxy": "http://",
+    "killswitchXapiUri": "/xapi/navigate/v1/header-footer/switches",
+    "headerXapiUri": "/xapi/navigate/v1/header",
+    "headerServiceEndpoint": "http://10.121.28.51",
+    "footerXapiUri": "/xapi/navigate/v1/footer",
+    "footerServiceEndpoint": "http://10.121.28.51",
+    "prosContentTrmts": "MFC|MFD|MFE",
+    "prosContentCtrl": "MDY",
+    "xapiHost": "",
+    "key1": "/xapi/v1/lists/",
+    "googleApiKey": "'client=gme-macysinc'",
+    "checkoutOptiBuyItNowEnabled": true,
+    "envHost": "https://www.macys.com",
+    "productXapiHost": "http://10.121.28.81",
+    "entryPoint": "mcom",
+    "dtCollectorName": "http://ma209dlvmon827:8042",
+    "dtNodeAgentPath": "/www/apps/dynatrace/dynatrace_appmon/agent/nodejs/nodejsagent.js",
+    "dtAgentName": "digital_product_ui",
+    "isBigTicketMasterEnabled": true,
+    "isBigTicketV2CEnabled": false,
+    "isItemAvailabilityOptimizedBOPSExperienceEnabled": true,
+    "isResponsiveReviewEnabled": true,
+    "isProsFacetFilterEnabled": true,
+    "isOcfPickupBOPSOnlyAllProductViewsEnabled": false,
+    "productNotFoundError": false
+  }
+}

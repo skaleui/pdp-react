@@ -1,0 +1,18 @@
+
+@import "bootstrap/scss/bootstrap";
+
+$title-color: red;
+$sub-title-color: orange;
+.product-page {
+	font-size: 24px;
+	font-style: normal;
+}
+.page-title {
+	margin: 10px 0 0 10px;
+	text-align: center;
+	color: $title-color;
+}
+
+.body {
+	font-family: 'arial';
+}

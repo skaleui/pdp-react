@@ -1,0 +1,30 @@
+[
+  {
+    "id": 22804,
+    "identifier": {
+      "productUrl": "https://slimages.macysassets.com/is/image/MCY/products/9/optimized/680899_fpx.tif?op_sharpen=1&wid=500&hei=600&fit=fit"
+    },
+    "detail": {
+      "name": "Timberland Shoes",
+      "description": "Men's 6\" Premium Waterproof Boot."
+    },
+
+    "availability": {
+      "checkInStoreEligibility": false,
+      "available": true
+    },
+
+    "price": {
+      "regular": {
+        "value": 79,
+        "formattedValue": "$79.00",
+        "type": "regular"
+      },
+      "sale":{
+        "value": 54.99,
+        "formattedValue": "$54.99",
+        "type": "discount"
+      }
+    }
+  }
+]
