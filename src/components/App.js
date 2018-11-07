@@ -16,7 +16,7 @@ class App extends Component {
       <div>
         <Header title={config.header}>
         </Header>
-        <Work />
+        <Work productId={config.id}/>
         <Footer title={config.footer}>
         This is Footer
         </Footer>

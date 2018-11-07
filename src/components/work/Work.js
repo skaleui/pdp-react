@@ -23,7 +23,7 @@ class Work extends React.Component {
   componentDidMount(){
     /*eslint-disable no-console*/
     console.log("componentDidMount");
-    this.props.actions.loadProducts();
+    this.props.actions.loadProduct(this.props.productId);
   }
 
   componentWillReceiveProps(nextProps){
@@ -37,9 +37,9 @@ class Work extends React.Component {
 		return (
 			<div className="container card-deck">
 				<div className="card">
-          <ProductTitle title={this.props.products[0].detail} /> 
-          <ProductImage url={this.props.products[0].identifier.productUrl} />
-          <ProductPrice price={this.props.products[0].price} />
+          <ProductTitle title={this.props.product.detail} /> 
+          <ProductImage url={this.props.product.identifier.productUrl} />
+          <ProductPrice price={this.props.product.price} />
          
 				</div>
 			</div>
@@ -49,13 +49,13 @@ class Work extends React.Component {
 }
 
 Work.propTypes = {
-  products: PropTypes.array.isRequired,
+  productId: PropTypes.string.isRequired,
   actions: PropTypes.object.isRequired
 };
 
 function mapStateToProps(state, ownProps){
   return {
-    products: state.products
+    product: state.product
   };
 }
 

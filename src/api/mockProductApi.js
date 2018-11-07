@@ -13,8 +13,8 @@ class ProductApi {
   static getProduct(id){
     return new Promise((resolve, reject) => {
       setTimeout( () => {
-         let product = products.findIndex((a) => { a.id == id; });
-          resolve(product);
+         let product = products.find((a) => { if(a.id == id) return a; });
+          resolve(Object.assign({}, product));
       }, delay);
     });
   }

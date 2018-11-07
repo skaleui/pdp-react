@@ -1,6 +1,6 @@
 import productApi from '../api/mockProductApi';
 import * as types from './actionTypes';
-import {beginAjaxCall} from './ajaxStatusActions';
+import {beginAjaxCall, ajaxCallError} from './ajaxStatusActions';
 
 export function loadProductsSuccess(products){
   return {type: types.LOAD_PRODUCTS_SUCCESS, products};
@@ -16,7 +16,8 @@ export function loadProduct(id){
       dispatch(beginAjaxCall());
       dispatch(loadProductSuccess(product));
     }).catch(error => {
-    throw(error);
+      dispatch(ajaxCallError(error));
+      throw(error);
     });
   };
 }
